@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "SK001",
+        "_nombre": "CENTELLA SERUM HIDRATANTE",
+        "_cantidad": 20,
+        "_precio": 19.99
+    },
+    {
+        "_id": "SK002",
+        "_nombre": "CENTELLA ASIATICA SERUM",
+        "_cantidad": 43,
+        "_precio": 25.9
+    },
+    {
+        "_id": "SK003",
+        "_nombre": "CENTELLA PROBIO-CICA DE MADAGASCAR",
+        "_cantidad": 10,
+        "_precio": 18.07
+    },
+    {
+        "_id": "SK004",
+        "_nombre": "CENTELLA LIMPIADOR FACIAL",
+        "_cantidad": 23,
+        "_precio": 16.34
+    },
+    {
+        "_id": "SK005",
+        "_nombre": "CENTELLA MASCARILLA FACIAL DE ACIDO HIALURONICO",
+        "_cantidad": 5,
+        "_precio": 6.74
+    },
+    {
+        "_id": "SK006",
+        "_nombre": "CENTELLA DISCOS HUMEDOS",
+        "_cantidad": 30,
+        "_precio": 18.7
+    },
+    {
+        "_id": "SK007",
+        "_nombre": "CENTELLA CREMA DE SAL ROSA",
+        "_cantidad": 34,
+        "_precio": 15.49
+    }
+]
